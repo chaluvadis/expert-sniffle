@@ -1,6 +1,6 @@
 # Varanasi Weekend Trip Plan
 
-## Friday Night (Departure to Varanasi)
+## :airplane: Friday Night (Departure to Varanasi)
 
 ### Flights
 
@@ -20,7 +20,7 @@
 
 ---
 
-## Accommodation in Varanasi
+## :hotel: Accommodation in Varanasi
 
 **Hotels (Private room + shared lobby/restaurant)**  
 1. Taj Nadesar Palace  
@@ -33,7 +33,7 @@
 
 ---
 
-## Saturday (Varanasi Exploration)
+## :walking: Saturday (Varanasi Exploration)
 
 - Breakfast at hotel  
 - Visit Kashi Vishwanath Temple and walk in old town alleys  
@@ -45,7 +45,7 @@
 
 ---
 
-## Sunday (Return Journey)
+## :calendar: Sunday (Return Journey)
 
 ### Morning / Day
 - Breakfast at hotel  
@@ -58,24 +58,20 @@
 
 ---
 
-## Bangalore Airport Taxi Plan
+## :taxi: Bangalore Airport Taxi Plan
 
-- Collect luggage & pick up pre-booked taxi  
-- Drive to travel companion’s home in Bangalore  
-- Drop you safely at your home  
-- Continue my journey Bangalore → Kanigiri  
+- Collect luggage & pick up pre-booked taxi   
+- 🔴 **Drop you safely at your home**
+- Continue taxi journey Bangalore → Kanigiri  
 - Optional highway rest stop / refreshment  
 - Continue drive non-stop with driver breaks as needed  
 - Arrive at Kanigiri safely  
 
 ---
 
-## Notes & Reminders
+## :memo: Notes & Reminders
 - Pre-book all taxis in advance for:
   - Varanasi airport → hotel  
   - Hotel → Varanasi airport  
-  - Bangalore airport → travel companion’s home → Kanigiri
-- Hotels offer private rooms with shared lobbies/cafes; neutral, non-romantic setting.  
-- Activities are calm, cultural, and flexible; independent exploration is fine.  
-- Ensure buffer time after flights for luggage, airport formalities, and traffic.  
-- Carry a **hand-printed scarf** gift for the travel companion (neutral, respectful, thoughtful).  
+  - Bangalore airport → travel companion’s home → Kanigiri  
+- **Digi Yatra:** Once flights are booked, upload the boarding passes to Digi Yatra for seamless check-in.  
