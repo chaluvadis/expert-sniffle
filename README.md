@@ -125,4 +125,8 @@
   - Hotel → Varanasi Airport  
   - Bangalore Airport → Home drop → Kanigiri  
 - **Digi Yatra:**  
-  - Once flights are booked, upload boarding passes to Digi Yatra for seamless airport entry and check-in  
+  - Once flights are booked, upload boarding passes to Digi Yatra for seamless airport entry and check-in
+
+
+## :airplane: Flight Options
+![Fligts](./Capture.PNG)
