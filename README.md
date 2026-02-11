@@ -130,6 +130,40 @@
 - Arrive Kanigiri safely  
 
 ---
+## 🏨 Hotels
+1. Radisson Hotel Varanasi
+   Area: Cantonment (safe, wide roads, easy taxi access)
+   Website: https://www.radissonhotels.com/en-us/hotels/radisson-varanasi
+
+2. The India Benares
+   Area: Cantonment
+   Website: https://www.theindiabenares.com/
+
+3. Hotel Madin
+   Area: Cantonment / Mall Road
+   Website: https://www.madinhotel.com/
+
+4. Hotel Clarks Varanasi
+   Area: Cantonment
+   Website: https://www.hotelclarksvaranasi.com/
+
+5. Hotel Stay Banaras
+   Area: Sigra (main road access, good reviews)
+   Website: https://www.hotelstaybanaras.com/
+
+6. Hotel Castillo
+   Area: Sigra
+   Website: https://www.hotelcastillo.in/
+
+7. Anaya Retreat
+   Area: Mahmoorganj (quiet, couple-friendly)
+   Website: https://www.anayaretreat.com/
+
+8. Narayana Haveli
+   Area: Near Assi / Pandey Ghat (tourist-friendly zone)
+   Website: http://www.narayanahaveli.com/
+
+---
 
 ## 📝 Notes & Reminders
 - Pre-book all taxis:
