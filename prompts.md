@@ -69,3 +69,8 @@ OVERALL STYLE
 - No literal landmarks, no heavy contrast, no exaggerated effects
 
 The final result should feel contemplative, sacred yet grounded, emotionally intelligent, culturally rooted, and unified — like two perspectives meeting gently by the river at dawn.
+
+---
+
+Create a high-resolution 16:9 abstract painting showing the journey of two mature IT professionals — a 40-year-old from Abu Dhabi and a 38-year-old from Bangalore — converging at Varanasi Airport at dawn, the entry point for shared, meaningful memories. Non-romantic, reflective, and professional, emphasizing mutual respect, personal space, and freedom of expression. Represent their journeys as distinct, curved flight-path-like energy streams: left path structured, grounded, deep indigo/burnt sienna, steady, supportive with subtle metallic highlights; right path flowing, textile-inspired, maroon/peacock blue, expanding naturally with woven abstract motifs. Center/convergence: open, warm, inviting, safe space with soft saffron-rose dawn glow, interwoven textures, faint kolam geometry, stepped abstract ghats, and horizontal river-like currents, symbolizing shared reflection and meaningful memories. Stylistic cues: flowing, layered directional brush strokes, gradients to suggest distance and movement, smooth arcs and soft curves for energy flow, subtle markers along paths, warm ambient lighting, diffused glow, culturally inspired, high-detail gallery-quality acrylic and oil hybrid textures. Avoid literal planes, airports, or buildings; convey the narrative through abstract energy, textures, and colors.
+
