@@ -1,5 +1,3 @@
----
-
 Create a high-resolution horizontal triptych abstract painting (16:9 aspect ratio). The composition is divided into three vertical columns with thin, minimalistic borders subtly blended into the painting. The borders must feel organic and integrated, never rigid or sharply separated.
 
 The entire artwork carries a soft atmospheric undertone inspired by Varanasi at dawn — spiritual, calm, and abstract, never literal. Do not depict realistic buildings or landscapes. Only suggest Varanasi through texture, geometry, color transitions, and woven design language.
