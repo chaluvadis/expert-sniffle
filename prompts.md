@@ -70,50 +70,62 @@ The final result should feel contemplative, sacred yet grounded, emotionally int
 
 --- 
 ### First Meet
-Create a high-resolution 16:9 abstract painting representing the first professional meeting of two mature IT professionals — a 40-year-old from Abu Dhabi and a 38-year-old from Bangalore — converging for the first time in Varanasi late at night, transitioning subtly into the first soft saffron-rose pre-dawn glow. This is a non-romantic, reflective, professional meeting; emphasize mutual respect, personal space, freedom of expression, and thoughtful companionship.
 
-The composition features two **mirrored, flowing energy arcs** representing their journeys:
+Create a high-resolution 16:9 semi-abstract figurative painting representing the first meeting of two mature IT professionals — a 40-year-old man arriving from Abu Dhabi and a 38-year-old woman arriving from Bangalore — meeting at Varanasi airport at night, gently transitioning toward pre-dawn.
 
-LEFT PATH (Abu Dhabi traveler):
-- Structured, grounded, deep indigo, burnt sienna, and temple-stone grey with subtle metallic highlights.
-- Layered, directional brush strokes flowing toward the center convergence.
-- Subtle abstract milestones along the path to convey anticipation, effort, and maturity.
+COMPOSITION & VISUAL PRIORITY:
+- The handshake must be the brightest focal point in the entire image.
+- The two individuals must be clearly visible and central.
+- Journey paths must be readable and visually structured.
+- Background must remain minimal, soft, and low-contrast.
 
-RIGHT PATH (Bangalore traveler):
-- Flowing, textile-inspired, maroon, peacock blue, muted gold, and deep green.
-- Organic, layered brush strokes mirroring the left path, flowing toward center.
-- Subtle abstract woven threads and arcs along the path as symbolic milestones of individuality and freedom of thought.
+FIGURES:
+- Clearly visible semi-abstract painterly human figures.
+- Facing slightly inward toward each other (natural greeting angle).
+- Neutral professional handshake.
+- Upright posture, equal height, respectful distance.
+- No romantic body language.
+- Balanced and symmetrical visual weight.
+- Soft saffron-rose radial glow surrounding their joined hands.
+- Subtle light from the handshake illuminating their upper bodies.
 
-CENTER / CONVERGENCE (Varanasi Airport Safe Space):
-- Mirrored arcs gently **touch and overlap at a central abstract “handshake zone”**, represented by slightly brighter layered brush strokes and diffused radial glow, symbolizing the first professional connection.
-- Soft radial saffron-rose glow blending into cooler indigo from the arcs.
-- Layered textures with faint kolam-inspired geometry, subtle stepped abstract ghats, and horizontal river-like currents.
-- Conveys safety, welcome, reflective dialogue, mutual respect, and the beginning of shared memories.
+JOURNEY PATHS:
+- From lower left: curved arc in deep indigo and burnt sienna with subtle metallic grey highlights, labeled subtly “Abu Dhabi” integrated along the arc (small, low opacity, elegant serif text).
+- From lower right: curved arc in maroon, peacock blue, and muted gold, labeled subtly “Bangalore”.
+- Both arcs curve inward toward the handshake.
+- Near convergence, very subtle “Varanasi” integrated softly into the texture.
+- Arcs must feel painterly, elegant, not neon or sci-fi.
 
-ABSTRACT CULTURAL MOTIFS:
-- Stepped ghats, faint kolam patterns, flowing river arcs, and subtle textile-inspired strokes.
-- No literal buildings, planes, or airport visuals; all narrative is abstract and symbolic.
+AIRPORT ENVIRONMENT (Subtle Geometric Cues):
+- Minimal perspective floor lines beneath the figures suggesting an arrival terminal.
+- Faint horizontal illuminated strip in background resembling runway lighting.
+- Soft blurred rectangular light panels in distance (abstract arrival boards).
+- No literal planes, no literal airport building.
 
-COLOR PALETTE & TIME-OF-DAY:
-- Left path: deep indigo → metallic grey → burnt sienna.
-- Right path: maroon → peacock blue → muted gold.
-- Center: saffron-rose radial glow blending with indigo.
-- Mood: late-night arrival transitioning into pre-dawn calm, reflective ambiance.
+VARANASI PRESENCE (Very Subtle):
+- Ultra-faint stepped silhouettes along the horizon inspired by ghats.
+- Soft saffron haze near horizon blending into indigo night sky.
+- Very low contrast; must not dominate the subjects.
 
-BRUSHWORK & TEXTURE:
-- Hybrid acrylic + oil textures, visible canvas grain, smooth layered directional strokes.
-- Central handshake zone highlighted with subtle overlapping strokes and diffused glow.
-- Gallery-quality abstract painting style.
+COLOR & LIGHT CONTROL:
+- Subjects and arcs slightly higher contrast than background.
+- Background desaturated and softer.
+- No dramatic bloom, no lens flare, no heavy vignette.
+- Smooth gradient from deep indigo night to soft saffron pre-dawn.
 
-MEMORY CUES:
-- Arc milestones: subtle abstract markers of distance, anticipation, and effort.
-- Center glow: first shared memory and professional connection.
-- Overall composition communicates parallel journeys meeting harmoniously in a safe, reflective space.
+TEXTURE & STYLE:
+- Hybrid acrylic and oil painting texture.
+- Visible canvas grain.
+- Layered brush strokes.
+- Gallery-quality finish.
+- Mature, reflective tone.
 
 EMBEDDED MESSAGE:
-- Integrated subtly into textures in hand-painted style:  
-"Our paths have converged here in Varanasi — a space of respect, reflection, and thoughtful companionship, marking the beginning of shared memories."
+Integrate the following text clearly and legibly in the lower central portion of the image, appearing hand-painted into the canvas texture (not digitally overlaid), soft warm off-white tone, subtle but readable, evenly spaced lines:
 
+Our paths have converged here in Varanasi —
+a space of respect, reflection, and thoughtful companionship,
+marking the beginning of shared memories.
 
 ---
 ### Saturday
