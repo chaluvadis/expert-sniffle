@@ -71,61 +71,88 @@ The final result should feel contemplative, sacred yet grounded, emotionally int
 --- 
 ### First Meet
 
-Create a high-resolution 16:9 semi-abstract figurative painting representing the first meeting of two mature IT professionals — a 40-year-old man arriving from Abu Dhabi and a 38-year-old woman arriving from Bangalore — meeting at Varanasi airport at night, gently transitioning toward pre-dawn.
+Create a high-resolution 16:9 semi-abstract figurative painting representing the first professional meeting of two mature IT professionals at Varanasi airport, late night transitioning gently into pre-dawn.
 
-COMPOSITION & VISUAL PRIORITY:
-- The handshake must be the brightest focal point in the entire image.
-- The two individuals must be clearly visible and central.
-- Journey paths must be readable and visually structured.
-- Background must remain minimal, soft, and low-contrast.
+CORE STORY (TOP PRIORITY):
+The image must clearly communicate:
+1) Two individuals
+2) Their separate journeys
+3) Their meeting point
+4) Their expressions and presence
+5) A shared reflective message
+Nothing in the background or color palette should overpower these elements.
 
-FIGURES:
-- Clearly visible semi-abstract painterly human figures.
-- Facing slightly inward toward each other (natural greeting angle).
-- Neutral professional handshake.
+PRIMARY CHARACTERS (HIGHEST VISUAL PRIORITY):
+- A 40-year-old man arriving from Abu Dhabi and a 38-year-old woman arriving from Bangalore.
+- Full-body, semi-abstract but clearly human figures.
+- Facing slightly inward toward each other.
+- Neutral, professional handshake at the center.
 - Upright posture, equal height, respectful distance.
 - No romantic body language.
-- Balanced and symmetrical visual weight.
-- Soft saffron-rose radial glow surrounding their joined hands.
-- Subtle light from the handshake illuminating their upper bodies.
 
-JOURNEY PATHS:
-- From lower left: curved arc in deep indigo and burnt sienna with subtle metallic grey highlights, labeled subtly “Abu Dhabi” integrated along the arc (small, low opacity, elegant serif text).
-- From lower right: curved arc in maroon, peacock blue, and muted gold, labeled subtly “Bangalore”.
-- Both arcs curve inward toward the handshake.
-- Near convergence, very subtle “Varanasi” integrated softly into the texture.
-- Arcs must feel painterly, elegant, not neon or sci-fi.
+EXPRESSIONS:
+- Calm, attentive, composed.
+- Subtle warmth and mutual respect.
+- Eyes, posture, and gestures must remain readable.
 
-AIRPORT ENVIRONMENT (Subtle Geometric Cues):
-- Minimal perspective floor lines beneath the figures suggesting an arrival terminal.
-- Faint horizontal illuminated strip in background resembling runway lighting.
-- Soft blurred rectangular light panels in distance (abstract arrival boards).
-- No literal planes, no literal airport building.
+CLOTHING (AIRPORT-APPROPRIATE):
+- Smart casual travel attire.
+- Comfortable, understated, practical.
+- No formal suits or ceremonial clothing.
 
-VARANASI PRESENCE (Very Subtle):
-- Ultra-faint stepped silhouettes along the horizon inspired by ghats.
-- Soft saffron haze near horizon blending into indigo night sky.
-- Very low contrast; must not dominate the subjects.
+BAGS:
+- Light, naturally carried.
+- Must not distort posture or draw attention away from faces or handshake.
 
-COLOR & LIGHT CONTROL:
-- Subjects and arcs slightly higher contrast than background.
-- Background desaturated and softer.
-- No dramatic bloom, no lens flare, no heavy vignette.
-- Smooth gradient from deep indigo night to soft saffron pre-dawn.
+HANDSHAKE (ABSOLUTE FOCAL POINT):
+- The brightest and clearest element in the image.
+- Soft saffron-rose glow limited strictly to the joined hands.
+- Glow gently illuminates faces and upper torsos only.
+- No other element may compete in brightness or contrast.
 
-TEXTURE & STYLE:
-- Hybrid acrylic and oil painting texture.
-- Visible canvas grain.
-- Layered brush strokes.
-- Gallery-quality finish.
-- Mature, reflective tone.
+JOURNEY VISUALIZATION:
+LEFT SIDE (ABU DHABI):
+- Muted curved path in deep indigo and soft burnt sienna.
+- Subtle starting cue (small abstract figure or minimal aircraft hint).
+- “Abu Dhabi” integrated quietly along the path.
+
+RIGHT SIDE (BANGALORE):
+- Muted curved path in maroon and peacock blue.
+- Symmetrical inward flow toward center.
+- “Bangalore” integrated subtly.
+
+- Both paths must remain secondary to the characters.
+- “Varanasi” appears very subtly near convergence, blended into texture.
+
+MEETING POINT (VARANASI AIRPORT — IMPLIED):
+- Minimal perspective floor lines beneath figures.
+- Faint horizontal light strip suggesting runway or terminal depth.
+- Soft blurred rectangular light forms suggesting arrival boards.
+- No literal airport buildings or planes in flight.
+
+BACKGROUND (STRICTLY MINIMAL):
+- Quiet, soft, low-contrast abstract gradients only.
+- Deep indigo transitioning to dusk blue and faint saffron near horizon.
+- No strong textures, no decorative patterns, no dominant shapes.
+
+COLOR & BALANCE:
+- Characters, handshake, and journey paths slightly higher contrast.
+- Background desaturated and subdued.
+- No lens flare, no dramatic bloom, no heavy vignette.
 
 EMBEDDED MESSAGE:
-Integrate the following text clearly and legibly in the lower central portion of the image, appearing hand-painted into the canvas texture (not digitally overlaid), soft warm off-white tone, subtle but readable, evenly spaced lines:
-
-Our paths have converged here in Varanasi —
+Place the following text in the lower central area, legible but understated:
+"Our paths have converged here in Varanasi —
 a space of respect, reflection, and thoughtful companionship,
-marking the beginning of shared memories.
+marking the beginning of shared memories."
+
+- Appears hand-painted into the surface.
+- Soft warm off-white tone.
+- Readable at first glance, secondary to the handshake.
+
+OVERALL TONE:
+Mature, reflective, professional, calm, human.
+The people, their journeys, and their meeting must remain the heart of the image.
 
 ---
 ### Saturday
