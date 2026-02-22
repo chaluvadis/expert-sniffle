@@ -71,88 +71,60 @@ The final result should feel contemplative, sacred yet grounded, emotionally int
 --- 
 ### First Meet
 
-Create a high-resolution 16:9 semi-abstract figurative painting representing the first professional meeting of two mature IT professionals at Varanasi airport, late night transitioning gently into pre-dawn.
+Create a print-ready A2 poster–style digital illustration (minimum 4961 × 7016 px, 300 DPI, RGB, ultra-clean edges) in a flat, minimalist, travel-documentary aesthetic.
 
-CORE STORY (TOP PRIORITY):
-The image must clearly communicate:
-1) Two individuals
-2) Their separate journeys
-3) Their meeting point
-4) Their expressions and presence
-5) A shared reflective message
-Nothing in the background or color palette should overpower these elements.
+SCENE & COMPOSITION
+• Horizontal composition with strong negative space.
+• Humans are the primary focus; locations remain secondary and understated.
+• Center-weighted composition highlighting a calm, respectful first meeting at an airport.
+• Background kept minimal so colors never overpower the characters.
 
-PRIMARY CHARACTERS (HIGHEST VISUAL PRIORITY):
-- A 40-year-old man arriving from Abu Dhabi and a 38-year-old woman arriving from Bangalore.
-- Full-body, semi-abstract but clearly human figures.
-- Facing slightly inward toward each other.
-- Neutral, professional handshake at the center.
-- Upright posture, equal height, respectful distance.
-- No romantic body language.
+CHARACTERS
+• Two mature professionals, full-body, semi-abstract but clearly readable.
+• Man: casual shirt, relaxed travel trousers, understated backpack or sling; posture upright, calm expression.
+• Woman: elegant but casual saree suitable for travel (lightweight drape, simple folds), minimal accessories; handbag worn naturally on one shoulder or resting at the side.
+• No exaggerated gestures or romance.
+• Expressions should convey calm curiosity, mutual respect, and quiet anticipation.
+• Interaction: no exaggerated handshake — either a subtle greeting gesture, slight inward orientation, or relaxed standing proximity.
 
-EXPRESSIONS:
-- Calm, attentive, composed.
-- Subtle warmth and mutual respect.
-- Eyes, posture, and gestures must remain readable.
+JOURNEY CONTEXT
+• Left side subtly suggests Bengaluru journey using warm, restrained tones (soft terracotta, muted coral, gentle ochre).
+• Right side subtly suggests Abu Dhabi journey using cool desert tones (sand beige, muted gold, deep indigo).
+• Use minimal directional lines or abstract travel cues — no literal planes or landmarks.
 
-CLOTHING (AIRPORT-APPROPRIATE):
-- Smart casual travel attire.
-- Comfortable, understated, practical.
-- No formal suits or ceremonial clothing.
+VARANASI (BACKGROUND ONLY)
+• Treated as context, not symbolism or spirituality.
+• A calm river plane suggested by a soft horizontal gradient near the lower mid-background.
+• Low skyline interruptions: simplified temple spires and ghat steps reduced to flat geometric silhouettes.
+• No glowing halos, sacred light, or mystical symbolism.
+• Sunrise suggested gently through soft tonal shift, not dramatic lighting.
 
-BAGS:
-- Light, naturally carried.
-- Must not distort posture or draw attention away from faces or handshake.
+STYLE & COLOR
+• Flat poster style with controlled gradients.
+• Limited color palette with harmonious warm–cool balance.
+• Soft textures only where needed; avoid painterly chaos.
+• No cinematic lighting, no photorealism.
+• Clean vector-like clarity suitable for large-format print viewing distance.
 
-HANDSHAKE (ABSOLUTE FOCAL POINT):
-- The brightest and clearest element in the image.
-- Soft saffron-rose glow limited strictly to the joined hands.
-- Glow gently illuminates faces and upper torsos only.
-- No other element may compete in brightness or contrast.
+PRINT OPTIMIZATION
+• Strong silhouette clarity from 1.5–2 meters viewing distance.
+• Crisp line definition, balanced contrast.
+• Avoid micro-details that break at scale.
+• Museum-grade poster finish.
 
-JOURNEY VISUALIZATION:
-LEFT SIDE (ABU DHABI):
-- Muted curved path in deep indigo and soft burnt sienna.
-- Subtle starting cue (small abstract figure or minimal aircraft hint).
-- “Abu Dhabi” integrated quietly along the path.
+MOOD & MESSAGE
+• Travel as lived experience.
+• Human presence first, place as backdrop.
+• Quiet, grounded, contemporary.
+• Observational, calm, respectful, modern.
 
-RIGHT SIDE (BANGALORE):
-- Muted curved path in maroon and peacock blue.
-- Symmetrical inward flow toward center.
-- “Bangalore” integrated subtly.
-
-- Both paths must remain secondary to the characters.
-- “Varanasi” appears very subtly near convergence, blended into texture.
-
-MEETING POINT (VARANASI AIRPORT — IMPLIED):
-- Minimal perspective floor lines beneath figures.
-- Faint horizontal light strip suggesting runway or terminal depth.
-- Soft blurred rectangular light forms suggesting arrival boards.
-- No literal airport buildings or planes in flight.
-
-BACKGROUND (STRICTLY MINIMAL):
-- Quiet, soft, low-contrast abstract gradients only.
-- Deep indigo transitioning to dusk blue and faint saffron near horizon.
-- No strong textures, no decorative patterns, no dominant shapes.
-
-COLOR & BALANCE:
-- Characters, handshake, and journey paths slightly higher contrast.
-- Background desaturated and subdued.
-- No lens flare, no dramatic bloom, no heavy vignette.
-
-EMBEDDED MESSAGE:
-Place the following text in the lower central area, legible but understated:
-"Our paths have converged here in Varanasi —
-a space of respect, reflection, and thoughtful companionship,
-marking the beginning of shared memories."
-
-- Appears hand-painted into the surface.
-- Soft warm off-white tone.
-- Readable at first glance, secondary to the handshake.
-
-OVERALL TONE:
-Mature, reflective, professional, calm, human.
-The people, their journeys, and their meeting must remain the heart of the image.
+Exclude:
+• Spiritual symbolism
+• Overly formal clothing
+• Dramatic lighting
+• Crowded backgrounds
+• Literal landmarks or text
+• Romantic body language
 
 ---
 ### Saturday
