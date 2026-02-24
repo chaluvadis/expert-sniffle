@@ -9,6 +9,7 @@
 - Mix of spiritual, historical, and natural attractions.
 
 ---
+https://zafigo.com/cities/city-guide-women-varanasi-india-travel-tips/
 
 ## ✈️ Travel to Varanasi (Friday Night)
 
