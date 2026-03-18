@@ -1,3 +1,49 @@
+### Birthday Celebration – Minimalistic Abstract Painting
+Create a high-resolution 16:9 horizontal minimalist abstract painting celebrating a birthday.
+- Style & Texture: Smooth acrylic/oil-like textures with soft visible brush strokes; clean, serene, gallery-quality finish.
+- Travel Arcs:
+  - Left traveler: deep indigo → burnt sienna → metallic grey accents.
+  - Right traveler: maroon → peacock blue → muted gold → deep green.
+  - Center convergence: soft saffron-rose blending, subtle harmony of both arcs.
+- Energy & Flow: Two mirrored arcs flowing along a continuous abstract spine; minor divergence to show individuality; gentle overlap at the center to indicate connection.
+- Background & Composition: Clean gradients, soft mist, minimal textures; no literal buildings or people.
+- Occasion Accent: Soft glowing dots or warm gold accents along arcs to subtly signify celebration.
+- Embedded Message: Organically blend this hand-painted message into the center arc texture:
+  "A quiet celebration of your journey and our shared moments."
+- Mood: Reflective, serene, professional, mature, culturally rooted, emotionally intelligent.
+- Output: High-resolution, 300 DPI, gallery-quality, 16:9 aspect ratio.
+---
+### Valentine’s Day – Minimalistic Abstract Painting
+Create a high-resolution 16:9 horizontal minimalist abstract painting celebrating Valentine’s Day.
+- Style & Texture: Smooth, blended acrylic/oil-like textures; soft brush strokes; clean, calm composition.
+- Travel Arcs:
+  - Left traveler: deep indigo → burnt sienna → metallic grey.
+  - Right traveler: maroon → peacock blue → muted gold → deep green.
+  - Center: harmonious blend with gentle rose-saffron glow.
+- Energy & Flow: Two mirrored arcs along a continuous abstract spine; minor divergences for individuality; subtle overlap at center to indicate supportive connection.
+- Background & Composition: Minimalist gradient; soft mist; clean and uncluttered.
+- Occasion Accent: Gentle rose-saffron glow along arcs, soft floating shapes like abstract petals or dots; delicate but not romantic.
+- Embedded Message: Organically integrate this hand-painted message into the texture:
+  "In reflection and understanding, our connection grows."
+- Mood: Reflective, elegant, emotionally intelligent, culturally nuanced.
+- Output: High-resolution, 300 DPI, gallery-quality, 16:9 aspect ratio.
+---
+### Special Occasion / General Milestone – Minimalistic Abstract Painting
+Create a high-resolution 16:9 horizontal minimalist abstract painting for a special occasion or milestone.
+- Style & Texture: Soft acrylic/oil-like textures; smooth brushwork; minimalistic, serene composition.
+- Travel Arcs:
+  - Left traveler: deep indigo → burnt sienna → metallic grey.
+  - Right traveler: maroon → peacock blue → muted gold → deep green.
+  - Center convergence: soft saffron-rose or golden glow blending harmoniously.
+- Energy & Flow: Two mirrored arcs flowing along a continuous abstract spine; subtle divergence for individuality; gentle overlaps for support.
+- Background & Composition: Clean gradient background, soft mist or subtle floating shapes; minimal distractions.
+- Occasion Accent: Soft glowing elements along arcs representing hope, shared moments, or abstract gifts.
+- Embedded Message: Organically blend this hand-painted message into the painting:
+  "Every step and conversation is a memory we carry thoughtfully."
+- Mood: Reflective, calm, professional, mature, culturally rooted, emotionally intelligent.
+- Output: High-resolution, 300 DPI, gallery-quality, 16:9 aspect ratio.
+
+---
 Create a high-resolution horizontal triptych abstract painting (16:9 aspect ratio). The composition is divided into three vertical columns with thin, minimalistic borders subtly blended into the painting. The borders must feel organic and integrated, never rigid or sharply separated.
 
 The entire artwork carries a soft atmospheric undertone inspired by Varanasi at dawn — spiritual, calm, and abstract, never literal. Do not depict realistic buildings or landscapes. Only suggest Varanasi through texture, geometry, color transitions, and woven design language.
