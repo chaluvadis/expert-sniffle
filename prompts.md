@@ -1,4 +1,96 @@
 ### Birthday Celebration – Minimalistic Abstract Painting
+Create a **triptych greeting image** with three vertical sections:
+
+**Left section:** Display the **English birthday message** in a **simple, elegant, highly readable font**:
+
+*"Dear Sunitha,
+
+On your birthday,
+I wish you good health, peace of mind,
+and little moments every day that bring a genuine smile to your life.
+
+Since we first started talking last October,
+our conversations have flowed so naturally.
+What began as simple messages
+slowly grew into a meaningful connection.
+The ease and trust between us
+have become truly valuable to me.
+
+This past month, seeing how you handled difficult situations
+with calm, courage, and responsibility
+deepened my respect for you.
+It showed me clearly the strength of your heart.
+
+The way you understand people,
+and listen without judgment,
+has made it easy for me to be myself around you.
+The warmth and sincerity in our conversations
+have become a meaningful part of my days.
+
+On your birthday,
+I hope you feel truly yourself,
+and that the year ahead is filled with joy, peace, and happiness.
+May every good thing you truly deserve
+come into your life easily and at the right time.
+
+Warmest wishes,
+Surendra"*
+
+**Middle section:** Create **abstract art of an elegant traditional woman**, representing **grace, warmth, and wisdom**. Use **soft curves, flowing lines, and harmonious pastel colors**. Include a **thin minimalist border** around this section. The art should reflect her **personality and character**, not a realistic portrait.
+
+**Right section:** Display the **Telugu birthday message** in a **clear, elegant Telugu font**:
+
+*"సునీతా గారు,
+
+ఈ పుట్టినరోజు సందర్భంగా
+మీకు మంచి ఆరోగ్యం, మనశ్శాంతి,
+ప్రతి రోజూ చిరునవ్వు తెచ్చే చిన్న-చిన్న ఆనందాలు
+మీ జీవితాన్ని నింపాలని మనస్ఫూర్తిగా కోరుకుంటున్నాను.
+
+గత అక్టోబర్‌లో మనం మొదట మాట్లాడినప్పటి నుంచి
+మన మాటలు చాలా సహజంగా సాగాయి.
+సాధారణంగా మొదలైన ఆ సంభాషణలు
+క్రమంగా ఒక మంచి అనుబంధంగా మారాయి.
+మన మధ్య ఏర్పడిన సౌలభ్యం, నమ్మకం
+నాకు ఎంతో విలువైనవిగా అనిపిస్తాయి.
+
+గత నెలలో మీరు ఎదుర్కొన్న పరిస్థితులను
+మీరు చూపించిన శాంతి, ధైర్యం, బాధ్యతతో
+ఎలా ఎదుర్కొన్నారో చూసి
+మీపై నా గౌరవం మరింత పెరిగింది.
+అది మీరు ఎంత బలమైన మనసుతో ఉన్నారో
+నాకు స్పష్టంగా చూపించింది.
+
+ఇతరులను అర్థం చేసుకునే మీ తీరు,
+తీర్పులు లేకుండా వినగలిగే మీ స్వభావం
+నాకు మీతో మాట్లాడేప్పుడు
+సహజంగా, సంతోషంగా ఉండే అవకాశం ఇచ్చాయి.
+మన సంభాషణల్లో ఉండే వెచ్చదనం, నిజాయితీ
+నా రోజుల్లో ఒక మంచి అలవాటుగా మారాయి.
+
+ఈ పుట్టినరోజు
+మీకు మీరు అయినట్టే అనిపించేలా ఉండాలని,
+ముందున్న సంవత్సరం
+ఆనందం, శాంతి, సంతోషాలతో
+నిండిపోయి ఉండాలని కోరుకుంటున్నాను.
+మీరు నిజంగా అర్హించే ప్రతి మంచి విషయం
+మీ జీవితంలోకి సులభంగా, సమయానికి
+వచ్చి చేరాలని మనస్ఫూర్తిగా కోరుకుంటున్నాను.
+
+హృదయపూర్వక శుభాకాంక్షలతో,
+సురేంద్ర"*
+
+**Style & composition:**
+
+* Minimalist, elegant, and clean.
+* Soft neutral background colors (cream, soft gold, pastels).
+* Subtle dividing lines between sections.
+* Text is highly readable, uncluttered, and visually balanced.
+* Middle abstract art harmonizes with text colors.
+* Calm, warm, respectful, and celebratory tone.
+
+
+### Birthday Celebration – Minimalistic Abstract Painting
 Create a high-resolution 16:9 horizontal minimalist abstract painting celebrating a birthday.
 - Style & Texture: Smooth acrylic/oil-like textures with soft visible brush strokes; clean, serene, gallery-quality finish.
 - Travel Arcs:
