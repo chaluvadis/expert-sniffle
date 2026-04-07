@@ -408,7 +408,25 @@ EMBEDDED MESSAGE:
 
 
 ---
+
 Minimalist abstract digital art, silhouettes of a mature man on the left (Abu Dhabi) and woman on the right (Bengaluru) standing calmly, soft muted gradient background in peach, lavender, and subtle warm terracotta and gentle green tones inspired by South India, glowing floating words forming a steady bridge between them representing exchanged words, small elegant abstract shapes along the path representing gifts and subtly inspired by traditional Telugu motifs, a gentle break in the path symbolizing the postponed meeting this week, the path curving and flowing gracefully across the distance, extending forward into radiant glowing light and soft mist representing the journey ahead, subtle sparkling dots along the path representing hope, meaningful moments, and shared heritage, serene and elegant composition, overlay text in elegant minimalist font: main line 'Every word we’ve shared has quietly laid the path to the moments yet to come.' centered just above the glowing path, subtext 'A journey of trust, understanding, and meaningful moments together.' smaller, placed below the path, with very subtle soft glow harmonizing with the path, text color soft white or pale gold, ample spacing to maintain airy minimalism, symbolic of mature trust, deep connection, shared Telugu heritage, and optimistic anticipation despite distance and postponed meeting
 
---
+---
+
 Minimalist abstract digital art, silhouettes of a mature man on the left (Abu Dhabi) and woman on the right (Bengaluru) standing calmly, soft muted gradient background in peach and lavender with subtle warm terracotta and gentle green tones inspired by South India, glowing floating words forming a steady bridge between them representing exchanged words flowing like water, small elegant abstract shapes along the path representing gifts and subtly inspired by Telugu motifs, gentle break or curve in the path symbolizing the postponed meeting this week, path continuing forward into radiant glowing light and soft mist representing a realistic and hopeful future, subtle sparkling dots along the path representing anticipation and meaningful moments, serene and elegant composition, overlay text in elegant minimalist Telugu font: main line 'మన మాటలు, మన ఆలోచనలు, నిశ్శబ్దంగా మన సంబంధానికి మార్గం ఏర్పరుస్తున్నాయి; ఎదురుగా ఉన్న క్షణాలు అందంగా ఎదురుచూస్తున్నాయి.' centered just above the glowing path, subtext 'నమ్మకం, గౌరవం, మరియు భవిష్యత్తులో ఎదురుచూసే అద్భుత క్షణాల ప్రయాణం' smaller, placed below the path, with very subtle soft glow harmonizing with the path, text color soft white or pale gold, ample spacing to maintain airy minimalism, symbolic of deep mature connection, flowing words, shared Telugu heritage, and optimistic anticipation despite distance and postponed meeting
+
+--- 
+
+Sunitha Garu,
+
+As we continue our journey together, I want to share all the thoughts I’ve mentioned before in one place. My intention is to create a safe, trusting, and respectful space for both of us. These boundaries are not just rules—they’re a way to protect us from risks, including digital or cyber issues, and to make sure we always feel comfortable with each other.
+
+Here’s what I feel is important:
+
+- I believe it’s best to keep physical intimacy for after marriage.
+- I will never ask for intimate photos or anything intimate over video calls.
+- I will never ask you for money.
+- I want you to always feel safe sharing your thoughts, feelings, or concerns with me.
+- Please feel free to add or suggest any boundaries that are important to you as well.
+
+I care deeply about you and what we’re building together. By being open about these things, I hope we can continue growing our relationship in a way that’s safe, loving, and based on trust and respect for each other.
