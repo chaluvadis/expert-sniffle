@@ -27,37 +27,47 @@ Jagannath Temple, Puri
 * More pilgrimage experience than relaxed travel
 * Dress modestly; temple rules are strict
 
-## 🥈 2. Kerala — Ananthapadmanabha Temple (Kasaragod)
+## 🥈 2. Kerala — Sree Padmanabhaswamy Temple (Thiruvananthapuram)
 
-Ananthapadmanabhaswamy Temple
+Sree Padmanabhaswamy Temple
 
 ### ✈️ Travel
 
-* Bangalore → Mangalore (1–1.5 hrs flight)
-* Mangalore → Kasaragod (1–1.5 hrs drive)
-* Total: ~3–4 hours (very easy)
+* Bangalore → Thiruvananthapuram (2–3 hrs flight)
+* Thiruvananthapuram Airport → Temple (15–25 min cab)
+* Total: ~3–4 hours door-to-door
+
+👉 Most convenient: direct flight (morning or evening options available daily)
 
 ### 🌿 Why go
 
-* Calm, water-surrounded temple environment (very unique setting)
-* Low crowd pressure compared to major pilgrimage sites
-* Peaceful, reflective spiritual atmosphere
-* Very suitable for short, relaxed temple-focused trips
+* One of the most important and ancient **Vishnu temples in India**
+* Famous for the **Anantha Shayana (reclining Vishnu) idol**
+* Deep connection with Travancore royal heritage and Kerala temple tradition
+* Strong blend of **spiritual, cultural, and historical significance**
 
 ### 🏨 Stay
 
-* Bekal area (best mix of comfort + calm + cleanliness)
-* Kasaragod town (basic but safe, functional stays)
+* East Fort / Fort area (closest to temple, walkable access)
+* MG Road / Statue area (better hotels + connectivity)
+* Kovalam (optional beach stay, ~30–40 min away for relaxation)
 
-### 🌊 Optional add-on
+### 📍 Nearby places to visit
 
-* Bekal Fort (quiet coastal heritage site, good sunset spot)
+* Kovalam Beach — calm beach for evening relaxation
+* Napier Museum — heritage and Kerala history museum
+* Shanghumukham Beach — sunset spot near airport
 
-### ⚠️ Notes
+### ⚠️ Notes (important reality check)
 
-* Much more relaxed than Puri
-* Ideal for “slow temple + calm environment” travel style
-* Less ritual intensity, more peaceful presence
+* Strict dress code:
+
+* Men: dhoti (shirt removed inside sanctum area)
+* Women: saree or modest traditional wear
+* Photography strictly not allowed inside temple
+* Peak hours may involve waiting in queue
+* Best darshan time: early morning or evening
+* Highly structured temple discipline (follow rules carefully)
 
 ## 🥉 3. Rishikesh
 
